@@ -1,4 +1,4 @@
-# Project-Semantic-Segmentation-for-Brain Tumor
+# Brain Tumor-Segmentation-UNet
 
 **In this notebook, I implement an image segmentation model on a brain tumor image dataset: Kaggle Semantic Segmentation**
 
